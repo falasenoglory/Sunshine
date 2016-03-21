@@ -1,8 +1,5 @@
 package com.example.android.sunshine.fragments;
 
-/**
- * Created by Shanyl Jimenez on 3/19/2016.
- */
 import android.content.Intent;
 import android.os.Bundle;
 import android.support.annotation.Nullable;
