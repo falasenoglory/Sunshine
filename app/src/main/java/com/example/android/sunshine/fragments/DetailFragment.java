@@ -28,6 +28,8 @@ public class DetailFragment extends Fragment {
     private String mForecastStr;
 
 
+
+
     public static DetailFragment newInstance() {
         return new DetailFragment();
     }
