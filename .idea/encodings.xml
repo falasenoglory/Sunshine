@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/src/androidTest/java/com/example/android/sunshine/data/TestProvider.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/androidTest/java/com/example/android/sunshine/data/TestUriMatcher.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/androidTest/java/com/example/android/sunshine/data/TestWeatherContract.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/android/sunshine/data/WeatherProvider.java" charset="windows-1252" />
     <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/android/sunshine/fragments/DetailFragment.java" charset="windows-1252" />
     <file url="PROJECT" charset="UTF-8" />
   </component>
