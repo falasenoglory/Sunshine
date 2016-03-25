@@ -5,7 +5,9 @@
     <file url="file://$PROJECT_DIR$/app/src/androidTest/java/com/example/android/sunshine/data/TestUriMatcher.java" charset="windows-1252" />
     <file url="file://$PROJECT_DIR$/app/src/androidTest/java/com/example/android/sunshine/data/TestWeatherContract.java" charset="windows-1252" />
     <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/android/sunshine/activities/DetailFragment.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/android/sunshine/activities/DetailFragment.java" charset="windows-1252" />
     <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/android/sunshine/activities/ForecastAdapter.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/android/sunshine/activities/ForecastFragment.java" charset="windows-1252" />
     <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/android/sunshine/activities/Utility.java" charset="windows-1252" />
     <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/android/sunshine/data/WeatherProvider.java" charset="windows-1252" />
     <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/android/sunshine/sync/SunshineAuthenticator.java" charset="windows-1252" />
